@@ -1,2 +1,2 @@
 # BIM
-this is for tranining purpose only
+this is for training purpose only
